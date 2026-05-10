@@ -173,15 +173,3 @@ Global instances: `Ball ball`, `Paddle user, RightUser, LeftUser, AI`
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see [LICENSE.txt](LICENSE.txt) for details.  
-Raylib template originally by [Nick Koumaris](https://www.youtube.com/@educ8s).
-
----
-
-## 🙏 Acknowledgements
-
-- [Raylib](https://www.raylib.com/) by Ramon Santamaria (@raysan5)
-- [w64devkit](https://github.com/skeeto/w64devkit) for Windows toolchain
-- Starter template by [educ8s on YouTube](https://www.youtube.com/watch?v=PaAcVk5jUd8)
