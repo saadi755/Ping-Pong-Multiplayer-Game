@@ -7,7 +7,7 @@ A feature-rich Ping Pong game built in C++ using the [Raylib](https://www.raylib
 
 ## 📸 Preview
 
-![Game Preview](home 3.png)
+![Game Preview](Resources/home%203.png)
 
 ---
 
@@ -173,3 +173,9 @@ Global instances: `Ball ball`, `Paddle user, RightUser, LeftUser, AI`
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License** — see [LICENSE.txt](LICENSE.txt) for details.  
+Raylib template originally by [Nick Koumaris](https://www.youtube.com/@educ8s).
+
+---
